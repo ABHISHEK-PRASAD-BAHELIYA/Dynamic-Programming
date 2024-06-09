@@ -6,8 +6,8 @@ Dynamic Programming is technique in computer programming that helps to efficient
 
 ### How to **identify** DP?
 
-a. Optimal Problem
-b. some choice is given (multiple branches in recursion tree)
+- Optimal Problem
+- some choice is given (multiple branches in recursion tree)
 
 ### Ways of DP
 
@@ -18,4 +18,6 @@ b. some choice is given (multiple branches in recursion tree)
 2. Tabulation(Bottom Up)
    > step:-1 **iteration** --> step:- store in form table/set/storage.
 
-> [NOTE:-]
+> [!NOTE:-]
+
+> In mostly Problems are solved with the help of **memoization**. but when memorization do not worked means **stack-overflow** conditions then we need to use **Tabulation**. it's used for solve some specific problems. generally used memorization.
